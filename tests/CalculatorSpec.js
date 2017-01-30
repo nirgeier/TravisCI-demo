@@ -34,7 +34,7 @@ describe( 'calculator', function () {
         } );
       } );
   }
-
+/*
   describe( 'Failures Test#' + i,
     function () {
       it( 'should add ' + number1 + ' plus ' + number2 + ' and be equals to ' + ( number1 + number2 ), function () {
@@ -62,3 +62,4 @@ describe( 'calculator', function () {
       } );
     } );
 } );
+*/
