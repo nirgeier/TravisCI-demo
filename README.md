@@ -4,7 +4,7 @@
 
 ----
 
-# Jasmine & Travis-ci demo repo
+# Jasmine & Travis-ci demo repo for Lilach
 This repository will demonstarte the following flow:
 
 - Clone a git repository
