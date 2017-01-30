@@ -60,6 +60,6 @@ describe( 'calculator', function () {
       it( 'should divide ' + number1 + '/' + number2 + ' and be equals to ' + ( number2 && number1 / number2 ), function () {
         expect( Calculator.div( number1, number2 ) ).toBe( number2 && number1 * number2 );
       } );
-    } );
+    } );*/
 } );
-*/
+
