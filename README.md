@@ -6,6 +6,7 @@
 
 # Jasmine & Travis-ci demo repo
 This repository will demonstarte the following flow:
+itamardemo
 
 - Clone a git repository
 - Make changes to code and to tests
