@@ -16,7 +16,7 @@
     "url": "https://github.com/nirgeier/DevOps/issues"
   },
   "homepage": "https://github.com/nirgeier/DevOps#readme",
-  "devDependencies": {
+  "dependencies": {
     "jasmine-core": "^2.5.2",
     "karma": "^1.4.1",
     "karma-firefox-launcher": "^1.0.0",
