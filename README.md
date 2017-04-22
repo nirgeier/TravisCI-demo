@@ -4,6 +4,7 @@
 </a>  
 
 ----
+katsok
 
 # Jasmine & Travis-ci demo repo
 This repository will demonstarte the following flow:
