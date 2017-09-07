@@ -27,10 +27,10 @@ var Calculator = ( function () {
       return a - b;
     },
     div: function ( a, b ) {
-      return a / b; //quotient
+      return a / b; 
     },
     mul: function ( a, b ) {
-      return a * b; //product
+      return a * b; 
     }
   };
 } )();
