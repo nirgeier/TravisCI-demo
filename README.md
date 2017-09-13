@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 sdfsafsad
 asdfsad
+=======
+
+fff
+>>>>>>> d10dfa662c63e62e95aacf9d09f2a90bad4544a2
 <a target="blank" href="https://travis-ci.org/nirgeier/DevOps">
   <img src="https://api.travis-ci.org/nirgeier/DevOps.svg?branch=goodBranch">
 </a>  
