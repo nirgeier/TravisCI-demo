@@ -1,6 +1,12 @@
+
 pipeline {
-  agent none
-  stages {
+ agent {
+    docker {
+       image 'node:6-alpine' 
+       args '-p 3000:3000' 
+       }
+    }
+ stages {
     stage('Initialize') {
         echo 'Initializing...'
         def node = tool name: 'Node-7.4.0', type: 'jenkins.plugins.nodejs.tools.NodeJSInstallation'
@@ -10,7 +16,6 @@ pipeline {
         echo 'Getting source code...'
         checkout scm
     }
-
     stage('Build') {
         echo 'Building dependencies...'
         sh 'npm i'
