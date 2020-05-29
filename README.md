@@ -1,9 +1,12 @@
-
+<!-- -->
 <a target="blank" href="https://travis-ci.org/nirgeier/DevOps">
   <img src="https://api.travis-ci.org/nirgeier/DevOps.svg?branch=master">
 </a>  
 
-----
+
+-------
+
+New Line
 
 # Jasmine & Travis-ci demo repo
 This repository will demonstarte the following flow:
