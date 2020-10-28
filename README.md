@@ -5,7 +5,7 @@
 
 ----
 
-# Jasmine & Travis-ci demo repo
+# Sarit Jasmine & Travis-ci demo repo
 This repository will demonstarte the following flow:
 
 - Clone a git repository
