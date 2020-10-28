@@ -3,7 +3,7 @@
   <img src="https://api.travis-ci.org/nirgeier/DevOps.svg?branch=master">
 </a>  
 
-----
+-----
 
 # Jasmine & Travis-ci demo repo
 This repository will demonstarte the following flow:
