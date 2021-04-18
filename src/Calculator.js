@@ -1,6 +1,7 @@
 /**
- * This is a simple calculator with few simple options
- */
+ ** This is a simple calculator with few simple options
+ ** Code update
+ **/
 
 var Calculator = ( function () {
 
