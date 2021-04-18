@@ -1,6 +1,7 @@
 /**
  ** This is a simple calculator with few simple options
  ** Code update
+ ** Code update 2
  **/
 
 var Calculator = ( function () {
