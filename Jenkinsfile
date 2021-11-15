@@ -11,7 +11,7 @@ pipeline {
       checkout scm
     }
     stage('Build') {
-      echo 'Building dependencies...'
+      echo 'Building dependencies......'
       sh 'npm i'
     }
     stage('Test') {
