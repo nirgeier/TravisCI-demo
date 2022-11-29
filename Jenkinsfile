@@ -4,7 +4,7 @@ pipeline {
       image 'node:7-alpine' 
       args '-p 3000:3000' 
       }
-    }
+    }asdfsdfsdf
   stages {
     stage('Checkout') {
       echo 'Getting source code...'
