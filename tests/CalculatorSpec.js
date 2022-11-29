@@ -2,7 +2,7 @@ describe( 'calculator', function () {
   //Numbers from 1-100, 5 round of test
   for ( var i = 0; i < 3; i++ ) {
 
-    // Generate random numbers
+    // Generate random numbers sharon
     var
       number1 = Math.floor( ( Math.random() * 100 ) + 1 ),
       number2 = Math.floor( ( Math.random() * 100 ) + 1 );
