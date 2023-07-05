@@ -1,4 +1,4 @@
-
+### 
 <a target="blank" href="https://travis-ci.org/nirgeier/DevOps">
   <img src="https://api.travis-ci.org/nirgeier/DevOps.svg?branch=master">
 </a>  
@@ -6,19 +6,19 @@
 -------
 
 # Jasmine & Travis-ci demo repository
-This repository will demonstarte the following flow:
+This repository will demonstrate the following flow:
 
 - Clone a git repository
 - Make changes to code and to tests
 - Run local tests
-- Commit and see the auto build running
+- Commit and see the auto-build running
 
 ### Create accounts
 - Create an account on https://github.com
 - Go to the demo repository at: https://github.com/nirgeier/TravisCI-demo
 - click on the fork and fork the project to your account
 
-### Prepeare TravisCI
+### Prepare TravisCI
 - Create an account on https://travis-ci.org
 - Log into your TravisCI account
 - Sync your github projects to TravisCI
