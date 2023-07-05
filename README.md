@@ -3,7 +3,7 @@ nir6
 <a target="blank" href="https://travis-ci.org/nirgeier/DevOps">
   <img src="https://api.travis-ci.org/nirgeier/DevOps.svg?branch=master">
 </a>  
-
+nir7
 -----
 
 # Jasmine & Travis-ci demo repository
