@@ -24,7 +24,7 @@ var Calculator = ( function () {
       }
     },
     sub: function ( a, b ) {
-      return a - b;
+      return a - b + 5;
     },
     div: function ( a, b ) {
       return a / b; //quotient
