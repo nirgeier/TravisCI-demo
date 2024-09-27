@@ -35,7 +35,7 @@ describe( 'calculator', function () {
       } );
   }
 
-  describe( 'Failures Test#' + i,
+  /**describe( 'Failures Test#' + i,
     function () {
       it( 'should add ' + number1 + ' plus ' + number2 + ' and be equals to ' + ( number1 + number2 ), function () {
         expect( Calculator.add( number1, number2 ) ).toBe( number1 - number2 );
@@ -61,4 +61,5 @@ describe( 'calculator', function () {
         expect( Calculator.div( number1, number2 ) ).toBe( number2 && number1 * number2 );
       } );
     } );
+    */
 } );
